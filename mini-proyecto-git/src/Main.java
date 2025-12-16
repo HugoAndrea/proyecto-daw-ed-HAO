@@ -1,8 +1,6 @@
-public class Menu {
+public class hola{
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-	System.out.println("Prueba programa");
+        System.out.println("hola git"); 
+	}
 }
